@@ -14,6 +14,7 @@
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet" type="text/css" />
     <!-- Custom Fonts -->
+    <!-- KANTARAO CHANGES -->
     <%--<link href="font-awesome/font-awesome.min.css" rel="stylesheet" type="text/css" />--%>
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic"
         rel="stylesheet" type="text/css" />
