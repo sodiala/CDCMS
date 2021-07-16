@@ -8,7 +8,7 @@ using System.Runtime.Serialization;
 
 using System.Net;
 //using RESTFulWCFService;
-
+using System.IO;//repeated
 using System;
 using System.Collections.Generic;
 using System.Linq;
