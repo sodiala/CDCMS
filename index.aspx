@@ -28,7 +28,7 @@
      <script type="text/javascript">
         var markers = [];
         markers = JSON.parse('<%=JsonDataTabletoString() %>');
-
+console.log('test code change');
         window.onload = function LoadMap() {
             alert(markers.length)
             var mapOptions = {
