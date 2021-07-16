@@ -9,6 +9,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>Bootstrap Theme</title>
+    <!-- Mani -->
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <!-- Custom CSS -->
